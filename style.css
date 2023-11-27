@@ -1,0 +1,34 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    background: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.gif {
+    height: 30%;
+    width: 30%;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2.0em;
+    color: #0e0aeabd;
+    margin: 15px 0;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.5em;
+    color: crimson;
+    margin: 15px 0;
+}
